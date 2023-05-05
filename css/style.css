@@ -258,7 +258,7 @@ section{
    display: flex;
    align-items: center;
    justify-content: space-between;
-   max-width: 1200px;
+   max-width: 1400px;
    margin:0 auto;
    position: relative;
 }
@@ -875,7 +875,7 @@ section{
    font-size: 2rem;
    color:var(--black);
    background-color: var(--light-bg);
-   border-radius: .5rem;
+   border-radius: 3.5rem;
 }
 
 
